@@ -1,7 +1,7 @@
 {
   "name": "atm",
   "version": "1.0.0",
-  "description": "",
+  "description": "ATM Mechine with TypeScript, Node.js & inquirer",
   "main": "index.js",
   "type": "module",
   "scripts": {
