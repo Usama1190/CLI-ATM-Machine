@@ -1,9 +1,10 @@
 {
-  "name": "atm",
+  "name": "osama1191_atm_mechine_project",
   "version": "1.0.0",
   "description": "ATM Mechine with TypeScript, Node.js & inquirer",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
